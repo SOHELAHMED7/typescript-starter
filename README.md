@@ -31,6 +31,7 @@
 ## Installation
 
 ```bash
+$ git clone https://github.com/nestjs/typescript-starter.git
 $ npm install
 ```
 
